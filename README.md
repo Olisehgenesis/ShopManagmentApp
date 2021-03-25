@@ -1,0 +1,2 @@
+# ShopManagmentApp
+Designed By DevelopersClubMuni
